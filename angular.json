@@ -5,7 +5,7 @@
   "projects": {
     "angular-npm-template-with-sample-app": {
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "test-app",
       "projectType": "application",
       "prefix": "test-app",
       "schematics": {},
