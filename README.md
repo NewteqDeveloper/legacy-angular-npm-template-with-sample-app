@@ -1,3 +1,6 @@
+#Migrated
+Moved to: https://codeberg.org/newteq_github_archives/sample-angular-npm-template-with-sample-app
+
 # Angular2+ NPM Library Template
 
 This repo can be used as a base for creating NPM packages that are built with angular.
