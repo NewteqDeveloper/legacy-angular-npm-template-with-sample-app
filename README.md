@@ -1,4 +1,4 @@
-#Migrated
+# Migrated
 Moved to: https://codeberg.org/newteq_github_archives/sample-angular-npm-template-with-sample-app
 
 # Angular2+ NPM Library Template
